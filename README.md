@@ -26,15 +26,15 @@
 
 ## Table of Contents
 
-- [Overview](#404 Not Founds)
-- [Features](#404 not found info)
+- [Overview](## overview)
+- [Features](## Features)
 - [Contact](#roshankc.info.np)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/83297534/156508555-0c6c7544-ca48-4481-a5ac-c039e4b7b1bf.png)
 
 
 ## Features
