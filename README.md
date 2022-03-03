@@ -22,14 +22,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](## overview)
-- [Features](## Features)
-- [Contact](#roshankc.info.np)
-
 <!-- OVERVIEW -->
 
 ## Overview
