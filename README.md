@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{romantic-leavitt-0ead15.netlify.app/}">
+    <a href="https://romantic-leavitt-0ead15.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/roshankcpkr/front9}">
+    <a href="https://github.com/roshankcpkr/front9">
       Solution
     </a>
     <span> | </span>
@@ -27,10 +27,8 @@
 ## Table of Contents
 
 - [Overview](#404 Not Founds)
-  - [Built With](#html and css)
 - [Features](#404 not found info)
 - [Contact](#roshankc.info.np)
-- [Acknowledgements](#roshankcpkr)
 
 <!-- OVERVIEW -->
 
@@ -48,6 +46,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{roshankc.info.np})
-- GitHub [@your-username](https://{github.com/roshankcpkr})
-- Twitter [@your-twitter](https://{twitter.com/notroshankc})
+- Website [roshankc](https://roshankc.info.np)
+- GitHub [@roshankcpkr](https://github.com/roshankcpkr)
+- Twitter [@notroshankc](https://twitter.com/notroshankc)
