@@ -18,7 +18,7 @@ header, .btn{
 }
 main, header, footer{
     max-width: 370px;
-    margin: 0 auto;
+    margin: 0 3em;
 }
 h1{
     font-size: 3em;
@@ -41,6 +41,7 @@ header p{
     letter-spacing: -0.035em;
     color: #333333;
 }
+
 .picture, .pic{
     width: 100%;
 }
@@ -85,6 +86,9 @@ footer a:hover{
         max-width: 1200px;
         width: 90%;
         justify-content: space-between;
+    }
+    main, header, footer{
+        margin: 0 auto;
     }
     .picture{
             width: 45%;
